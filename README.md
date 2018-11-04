@@ -16,4 +16,4 @@ The 'analysis.m' script can then be run from the MATLAB interface.
 
 **Output:** The finger-tapping frequency in Hz.
 
-I have used a graph-based approach for extracting the finger-tapping frequency. The algorithm is detailed in Project_Report.pdf.
+I have used a graph-based approach for extracting the finger-tapping frequency. The algorithm is detailed in [Project_Report.pdf](https://github.com/raiyan1102006/Finger_Tapping_Frequency_Estimation/blob/master/Project_Report.pdf).
