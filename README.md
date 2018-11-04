@@ -9,6 +9,10 @@ The 'data' folder contains 4 sample videos of finger tapping. The 'analysis.m' f
 
 Please install the MATLAB package 'Image Processing Toolbox' from https://www.mathworks.com/products/image.html.
 
-The 'analysis.m' script can then be run from the MATLAB interface. The code extracts and prints the finger-tapping frequency from the video data file. 
+The 'analysis.m' script can then be run from the MATLAB interface. 
 
+## Implementation
+**Input:** A video file of finger-tapping.
+**Output:** The finger-tapping frequency in Hz.
 
+I have used a graph-based approach for extracting the finger-tapping frequency. The algorithm is detailed in Project_Report.pdf.
