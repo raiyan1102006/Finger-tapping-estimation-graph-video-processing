@@ -11,7 +11,7 @@ Please install the MATLAB package 'Image Processing Toolbox' from https://www.ma
 
 The 'analysis.m' script can then be run from the MATLAB interface. 
 
-## Implementation
+## Implementation Summary
 **Input:** A video file of finger-tapping.
 
 **Output:** The finger-tapping frequency in Hz.
